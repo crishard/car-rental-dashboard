@@ -48,7 +48,7 @@ Uma aplicação de dashboard interativa para análise de dados de aluguel de car
 1. Clone o repositório
 
    ```bash
-   git clone https://github.seu-usuario/car-rental-dashboard.git
+   git clone https://github.com/crishard/car-rental-dashboard.git
    cd car-rental-dashboard
    ```
 
@@ -97,5 +97,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md par
 ## 📞 Contato
 
 Crislân Torres - <crislantorespr@gmail.com>
-
-Link do Projeto: [https://github.seu-usuario/car-rental-dashboard](https://github.seu-usuario/car-rental-dashboard)
